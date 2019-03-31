@@ -1,4 +1,4 @@
-{"logged":{
+{
   "firstName": "City",
   "lastName": "Lastname",
   "email": "ci.ty@city.com",
@@ -7,4 +7,4 @@
   "tokenExpiryTime": "1554081955103",
   "siteId": "0110"
 }
-}
+
