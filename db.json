@@ -1,1203 +1,572 @@
-[
+https://raw.githubusercontent.com/davidlad1234/jsonserver/master/db.json[
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592528826000,
+    "time": 1592530000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 1,
-    "creationDate": "2020-06-19T01:09:57.330+0000"
+    "locationId": 1,
+    "creationDate": "2020-06-19T01:09:57.330+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592528997000,
+    "time": 1592530000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 2,
-    "creationDate": "2020-06-19T01:10:07.167+0000"
+    "locationId": 2,
+    "creationDate": "2020-06-19T01:10:07.167+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592589637000,
+    "time": 1592590000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
-    "accuracy": 14.0869998932,
+    "accuracy": 14.08699989,
     "provider": "fused",
-    "id": 3,
-    "creationDate": "2020-06-19T18:00:38.542+0000"
+    "locationId": 3,
+    "creationDate": "2020-06-19T18:00:38.542+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592589637000,
+    "time": 1592590000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
-    "accuracy": 14.0869998932,
+    "accuracy": 14.08699989,
     "provider": "fused",
-    "id": 4,
-    "creationDate": "2020-06-19T18:00:38.562+0000"
+    "locationId": 4,
+    "creationDate": "2020-06-19T18:00:38.562+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592779731000,
+    "time": 1592780000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 5,
-    "creationDate": "2020-06-22T00:39:00.974+0000"
+    "locationId": 5,
+    "creationDate": "2020-06-22T00:39:00.974+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
-    "lon": 37.4219983333,
+    "lon": 37.42199833,
     "lat": -122.084,
-    "time": 1592786341000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "gps",
-    "id": 6,
-    "creationDate": "2020-06-22T00:39:01.659+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592786341000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 7,
-    "creationDate": "2020-06-22T00:42:05.234+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592787077000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 8,
-    "creationDate": "2020-06-22T01:13:07.205+0000"
-  },
-  {
-    "lon": 37.4219983333,
-    "lat": -122.084,
-    "time": 1592788388000,
+    "time": 1592790000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "gps",
-    "id": 9,
-    "creationDate": "2020-06-22T01:13:07.923+0000"
+    "locationId": 6,
+    "creationDate": "2020-06-22T00:39:01.659+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592815925000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 14.998000145,
-    "provider": "fused",
-    "id": 10,
-    "creationDate": "2020-06-22T08:52:05.124+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592815927000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 13.5220003128,
-    "provider": "fused",
-    "id": 11,
-    "creationDate": "2020-06-22T08:52:10.883+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592817054000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 14.0869998932,
-    "provider": "fused",
-    "id": 12,
-    "creationDate": "2020-06-22T09:10:58.047+0000"
-  },
-  {
-    "lon": 37.4219983333,
-    "lat": -122.084,
-    "time": 1592817059000,
+    "time": 1592790000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
-    "provider": "gps",
-    "id": 13,
-    "creationDate": "2020-06-22T09:10:59.075+0000"
+    "provider": "fused",
+    "locationId": 7,
+    "creationDate": "2020-06-22T00:42:05.234+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592817059000,
+    "time": 1592790000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
-    "accuracy": 13.5220003128,
+    "accuracy": 20,
     "provider": "fused",
-    "id": 14,
-    "creationDate": "2020-06-22T09:13:05.016+0000"
+    "locationId": 8,
+    "creationDate": "2020-06-22T01:13:07.205+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
-    "lon": 37.4219983333,
+    "lon": 37.42199833,
     "lat": -122.084,
-    "time": 1592817186000,
+    "time": 1592790000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "gps",
-    "id": 15,
-    "creationDate": "2020-06-22T09:13:05.461+0000"
+    "locationId": 9,
+    "creationDate": "2020-06-22T01:13:07.923+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592822507000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
-    "accuracy": 14.0869998932,
+    "accuracy": 14.99800015,
     "provider": "fused",
-    "id": 16,
-    "creationDate": "2020-06-22T10:41:47.978+0000"
+    "locationId": 10,
+    "creationDate": "2020-06-22T08:52:05.124+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592824071000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 17,
-    "creationDate": "2020-06-22T11:07:56.620+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824071000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 18,
-    "creationDate": "2020-06-22T11:12:20.789+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824342000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 19,
-    "creationDate": "2020-06-22T11:12:21.675+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824362000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 20,
-    "creationDate": "2020-06-22T11:12:41.273+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824382000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 21,
-    "creationDate": "2020-06-22T11:13:01.278+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824402000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 22,
-    "creationDate": "2020-06-22T11:13:21.303+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824428000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 23,
-    "creationDate": "2020-06-22T11:13:47.467+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824448000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 24,
-    "creationDate": "2020-06-22T11:14:07.482+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824482000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 25,
-    "creationDate": "2020-06-22T11:14:40.976+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824482000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 26,
-    "creationDate": "2020-06-22T11:14:56.439+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824498000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 27,
-    "creationDate": "2020-06-22T11:14:56.853+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824518000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 28,
-    "creationDate": "2020-06-22T11:15:16.865+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824538000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 29,
-    "creationDate": "2020-06-22T11:15:36.868+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824558000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 30,
-    "creationDate": "2020-06-22T11:15:56.977+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824578000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 31,
-    "creationDate": "2020-06-22T11:16:16.991+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824598000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 32,
-    "creationDate": "2020-06-22T11:16:37.020+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824618000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 33,
-    "creationDate": "2020-06-22T11:16:57.044+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824642000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 34,
-    "creationDate": "2020-06-22T11:17:20.989+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824676000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 35,
-    "creationDate": "2020-06-22T11:17:55.149+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824696000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 36,
-    "creationDate": "2020-06-22T11:18:15.147+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824716000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 37,
-    "creationDate": "2020-06-22T11:18:35.165+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824738000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 38,
-    "creationDate": "2020-06-22T11:18:57.013+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824758000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 39,
-    "creationDate": "2020-06-22T11:19:17.026+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824778000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 40,
-    "creationDate": "2020-06-22T11:19:37.040+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824802000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 41,
-    "creationDate": "2020-06-22T11:20:00.995+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824822000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 42,
-    "creationDate": "2020-06-22T11:20:21.468+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824842000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 43,
-    "creationDate": "2020-06-22T11:20:41.351+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824862000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 44,
-    "creationDate": "2020-06-22T11:21:01.353+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824882000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 45,
-    "creationDate": "2020-06-22T11:21:21.371+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824902000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 46,
-    "creationDate": "2020-06-22T11:21:41.372+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824922000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 47,
-    "creationDate": "2020-06-22T11:22:01.394+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824942000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 48,
-    "creationDate": "2020-06-22T11:22:21.397+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824962000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 49,
-    "creationDate": "2020-06-22T11:22:41.401+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592824982000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 50,
-    "creationDate": "2020-06-22T11:23:01.416+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825002000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 51,
-    "creationDate": "2020-06-22T11:23:21.425+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825022000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 52,
-    "creationDate": "2020-06-22T11:23:41.440+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825042000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 53,
-    "creationDate": "2020-06-22T11:24:01.447+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825062000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 54,
-    "creationDate": "2020-06-22T11:24:21.446+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825082000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 55,
-    "creationDate": "2020-06-22T11:24:41.471+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825103000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 56,
-    "creationDate": "2020-06-22T11:25:01.946+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825123000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 57,
-    "creationDate": "2020-06-22T11:25:21.950+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825143000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 58,
-    "creationDate": "2020-06-22T11:25:41.969+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825163000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 59,
-    "creationDate": "2020-06-22T11:26:01.978+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825183000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 60,
-    "creationDate": "2020-06-22T11:26:21.986+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825203000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 61,
-    "creationDate": "2020-06-22T11:26:42.004+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825223000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 62,
-    "creationDate": "2020-06-22T11:27:02.011+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825243000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 63,
-    "creationDate": "2020-06-22T11:27:22.026+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825267000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 64,
-    "creationDate": "2020-06-22T11:27:46.555+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825287000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 65,
-    "creationDate": "2020-06-22T11:28:06.581+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825307000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 66,
-    "creationDate": "2020-06-22T11:28:26.585+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825328000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 67,
-    "creationDate": "2020-06-22T11:28:47.485+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825348000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 68,
-    "creationDate": "2020-06-22T11:29:07.503+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825368000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 69,
-    "creationDate": "2020-06-22T11:29:27.513+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825388000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 70,
-    "creationDate": "2020-06-22T11:29:47.512+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825408000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 71,
-    "creationDate": "2020-06-22T11:30:07.521+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825428000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
+    "accuracy": 13.52200031,
     "provider": "fused",
-    "id": 72,
-    "creationDate": "2020-06-22T11:30:27.538+0000"
+    "locationId": 11,
+    "creationDate": "2020-06-22T08:52:10.883+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825461000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
-    "accuracy": 20,
-    "provider": "fused",
-    "id": 73,
-    "creationDate": "2020-06-22T11:31:00.411+0000"
-  },
-  {
-    "lon": 37.4219983,
-    "lat": -122.084,
-    "time": 1592825481000,
-    "altitude": 5,
-    "speed": 0,
-    "bearing": 0,
-    "accuracy": 20,
+    "accuracy": 14.08699989,
     "provider": "fused",
-    "id": 74,
-    "creationDate": "2020-06-22T11:31:20.418+0000"
+    "locationId": 12,
+    "creationDate": "2020-06-22T09:10:58.047+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
-    "lon": 37.4219983,
+    "lon": 37.42199833,
     "lat": -122.084,
-    "time": 1592825501000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
-    "provider": "fused",
-    "id": 75,
-    "creationDate": "2020-06-22T11:31:40.432+0000"
+    "provider": "gps",
+    "locationId": 13,
+    "creationDate": "2020-06-22T09:10:59.075+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825521000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
-    "accuracy": 20,
+    "accuracy": 13.52200031,
     "provider": "fused",
-    "id": 76,
-    "creationDate": "2020-06-22T11:32:00.446+0000"
+    "locationId": 14,
+    "creationDate": "2020-06-22T09:13:05.016+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
-    "lon": 37.4219983,
+    "lon": 37.42199833,
     "lat": -122.084,
-    "time": 1592825541000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
-    "provider": "fused",
-    "id": 77,
-    "creationDate": "2020-06-22T11:32:20.456+0000"
+    "provider": "gps",
+    "locationId": 15,
+    "creationDate": "2020-06-22T09:13:05.461+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825576000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
-    "accuracy": 20,
+    "accuracy": 14.08699989,
     "provider": "fused",
-    "id": 78,
-    "creationDate": "2020-06-22T11:32:55.219+0000"
+    "locationId": 16,
+    "creationDate": "2020-06-22T10:41:47.978+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825596000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 79,
-    "creationDate": "2020-06-22T11:33:15.213+0000"
+    "locationId": 17,
+    "creationDate": "2020-06-22T11:07:56.620+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825616000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 80,
-    "creationDate": "2020-06-22T11:33:35.219+0000"
+    "locationId": 18,
+    "creationDate": "2020-06-22T11:12:20.789+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825648000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 81,
-    "creationDate": "2020-06-22T11:34:07.716+0000"
+    "locationId": 19,
+    "creationDate": "2020-06-22T11:12:21.675+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825668000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 82,
-    "creationDate": "2020-06-22T11:34:27.720+0000"
+    "locationId": 20,
+    "creationDate": "2020-06-22T11:12:41.273+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825688000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 83,
-    "creationDate": "2020-06-22T11:34:47.726+0000"
+    "locationId": 21,
+    "creationDate": "2020-06-22T11:13:01.278+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825708000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 84,
-    "creationDate": "2020-06-22T11:35:07.729+0000"
+    "locationId": 22,
+    "creationDate": "2020-06-22T11:13:21.303+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825728000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 85,
-    "creationDate": "2020-06-22T11:35:27.739+0000"
+    "locationId": 23,
+    "creationDate": "2020-06-22T11:13:47.467+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825748000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 86,
-    "creationDate": "2020-06-22T11:35:47.744+0000"
+    "locationId": 24,
+    "creationDate": "2020-06-22T11:14:07.482+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825768000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 87,
-    "creationDate": "2020-06-22T11:36:07.772+0000"
+    "locationId": 25,
+    "creationDate": "2020-06-22T11:14:40.976+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825802000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 88,
-    "creationDate": "2020-06-22T11:36:41.420+0000"
+    "locationId": 26,
+    "creationDate": "2020-06-22T11:14:56.439+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825829000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 89,
-    "creationDate": "2020-06-22T11:37:08.304+0000"
+    "locationId": 27,
+    "creationDate": "2020-06-22T11:14:56.853+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825849000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 90,
-    "creationDate": "2020-06-22T11:37:28.317+0000"
+    "locationId": 28,
+    "creationDate": "2020-06-22T11:15:16.865+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825869000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 91,
-    "creationDate": "2020-06-22T11:37:48.327+0000"
+    "locationId": 29,
+    "creationDate": "2020-06-22T11:15:36.868+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825889000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 92,
-    "creationDate": "2020-06-22T11:38:08.328+0000"
+    "locationId": 30,
+    "creationDate": "2020-06-22T11:15:56.977+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825909000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 93,
-    "creationDate": "2020-06-22T11:38:28.336+0000"
+    "locationId": 31,
+    "creationDate": "2020-06-22T11:16:16.991+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825929000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 94,
-    "creationDate": "2020-06-22T11:38:48.341+0000"
+    "locationId": 32,
+    "creationDate": "2020-06-22T11:16:37.020+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825949000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 95,
-    "creationDate": "2020-06-22T11:39:08.347+0000"
+    "locationId": 33,
+    "creationDate": "2020-06-22T11:16:57.044+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825969000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 96,
-    "creationDate": "2020-06-22T11:39:28.375+0000"
+    "locationId": 34,
+    "creationDate": "2020-06-22T11:17:20.989+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592825989000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 97,
-    "creationDate": "2020-06-22T11:39:48.377+0000"
+    "locationId": 35,
+    "creationDate": "2020-06-22T11:17:55.149+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592826009000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 98,
-    "creationDate": "2020-06-22T11:40:08.895+0000"
+    "locationId": 36,
+    "creationDate": "2020-06-22T11:18:15.147+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592826029000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 99,
-    "creationDate": "2020-06-22T11:40:28.903+0000"
+    "locationId": 37,
+    "creationDate": "2020-06-22T11:18:35.165+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   },
   {
     "lon": 37.4219983,
     "lat": -122.084,
-    "time": 1592826049000,
+    "time": 1592820000000,
     "altitude": 5,
     "speed": 0,
     "bearing": 0,
     "accuracy": 20,
     "provider": "fused",
-    "id": 100,
-    "creationDate": "2020-06-22T11:40:48.902+0000"
+    "locationId": 38,
+    "creationDate": "2020-06-22T11:18:57.013+0000",
+   
+    
+    "ffid": "4b2f0a59-ae43-44b3-80df-69f7e87fec16"
   }
 ]
-
