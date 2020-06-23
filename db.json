@@ -1,4 +1,5 @@
 {
+  "user":{
   "firstName": "City",
   "lastName": "Lastname",
   "email": "ci.ty@city.com",
@@ -6,5 +7,6 @@
   "refreshToken": "dsafdssddsd4242242423",
   "tokenExpiryTime": "2019-11-04 23:35:00",
   "siteId": "0110"
+}
 }
 
